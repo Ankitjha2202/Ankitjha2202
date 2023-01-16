@@ -1,19 +1,17 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]() -->
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha2202&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha2202" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **ReactJS and other technologies**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **React and Web Development Projects**
 
 - 💬 Ask me about **ReactJS, NodeJS, Express, Machine Learning, AI**
 
 - 📫 How to reach me **ankitjhabst@gmail.com**
 
-- ⚡ Fun fact ****
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit jha" height="30" width="40" /></a>
