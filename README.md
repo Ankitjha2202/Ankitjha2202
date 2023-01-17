@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha2202&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha2202" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and other technologies**
+- 🌱 I’m currently learning **ReactJS and other frameworks**
 
 - 👯 I’m looking to collaborate on **React and Web Development Projects**
 
