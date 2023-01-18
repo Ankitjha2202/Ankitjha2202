@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Ankitjha2202/Ankitjha2202/blob/main/github-header-image.png)]()
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha2202&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha2202" /> </p>
 
 - 🌱 I’m currently learning **ReactJS and other frameworks**
