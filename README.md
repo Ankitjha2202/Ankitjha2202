@@ -3,9 +3,9 @@
 <!-- <img align="right" alt="Coding" width="250" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha2202&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha2202" /> </p> -->
 
-- 🌱 I’m currently learning **ReactJS and other Frameworks**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **React and Web Development Projects**
+- 👯 I’m looking to collaborate on **MERN and Machine Learning Projects**
 
 - 💬 Ask me about **ReactJS, NodeJS, Express, Machine Learning, AI**
 
