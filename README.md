@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **MERN and Machine Learning Projects**
+- 👯 I’m looking for **Software Developement Roles**
 
 - 💬 Ask me about **ReactJS, NodeJS, Express, Machine Learning, AI**
 
