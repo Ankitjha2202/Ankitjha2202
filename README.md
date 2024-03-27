@@ -7,7 +7,7 @@
 
 - 👯 I’m currently looking for **Software Developement Roles**
 
-- 💬 Ask me about **NextJS, Python, Machine Learning, AI**
+- 💬 Ask me about **Nextjs, Python, Machine Learning, AI**
 
 - 📫 How to reach me **ankitjhabst@gmail.com**
 
