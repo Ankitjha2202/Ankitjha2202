@@ -7,7 +7,7 @@
 
 - 👯 I’m currently looking for **Software Developement Roles**
 
-- 💬 Ask me about **Nextjs, Python, Machine Learning, AI**
+- 💬 Ask me about **Python, Machine Learning, AI, Computer Vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
