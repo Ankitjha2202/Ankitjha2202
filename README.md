@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m currently looking for **Software Developement Roles**
+- 👯 I’m currently looking for **ML Roles**
 
 - 💬 Ask me about **Python, Machine Learning, AI, Computer Vision**
 
