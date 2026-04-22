@@ -54,7 +54,9 @@ Actively looking for:
 <p align="center">
 <a href="https://linkedin.com/in/ankit-jha-7ab508203"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/Ankitjha2202"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://leetcode.com/_ankit_22"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+<a href="https://leetcode.com/_ankit_22">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" style="filter: invert(1);" />
+</a>
 </p>
 
 ---
