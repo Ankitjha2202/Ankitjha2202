@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ankit Jha
 
-### 🚀 Machine Learning Engineer | RAG Systems | Multi-Agent AI | Computer Vision
+### Machine Learning Engineer | RAG Systems | Multi-Agent AI | Computer Vision
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+RAG+%26+Multi-Agent+Systems;Computer+Vision+%7C+Edge+AI;FastAPI+%7C+LLMs+%7C+Vector+Search" />
 
